@@ -26,10 +26,3 @@ I'm passionate about building practical software, learning new technologies, and
 - Build impactful real-world projects
 - Prepare for software engineering internships and placements
 
-## 📫 Connect with Me
-
-- GitHub: https://github.com/akash-kumar-0Q
-- LinkedIn: *(Add your LinkedIn profile here later)*
-
----
-⭐ Thanks for visiting my profile!
